@@ -1,2 +1,4 @@
-# getting-started-with-python
-Getting Started with Python
+# Getting Started with Python
+
+* Demo 1 - Python Variables
+* Demo 2 - 
